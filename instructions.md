@@ -7,7 +7,7 @@ Install the dependencies using composer
 ***
 
 ### Running the application
-You can run php `bin/console.php` to see a list of all of the commands
+You can run `php bin/console.php` to see a list of all of the commands
 
 These are the main commands in the terminal to use the application:
 
