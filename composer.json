@@ -1,0 +1,20 @@
+{
+    "name": "bradley/symfony-console",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Bradley Philpott",
+            "email": "35923773+BradPhilpott@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^10.3",
+        "symfony/console": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "src\\" : "src",
+            "bin\\": "bin"
+        }
+    }
+}
